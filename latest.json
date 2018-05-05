@@ -1,4 +1,5 @@
 {
-    "spigot": "none",
-    "bukkit": "none
+    "spigot": "/spigot/spigot-1.12.2.jar",
+    "bukkit": "/craftbukkit/craftbukkit-1.12.2.jar",
+    "vanilla": "/mc/game/1.12.2/server/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar"
 }
